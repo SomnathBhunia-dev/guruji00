@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guruji00
+- 👋 Hi, I’m Somnath
 - 👀 I’m interested in ...Trading & Coding
 - 🌱 I’m currently learning ...Web Development
 - 💞️ I’m looking to collaborate on ...
